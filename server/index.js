@@ -32,4 +32,4 @@ mongoose
     process.exit(1);
   });
 
-//test
+export default app;
