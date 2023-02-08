@@ -1,0 +1,4 @@
+/node_modules
+
+# ditenv environment variable files
+.env
